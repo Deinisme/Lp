@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://sikma-dpmptsp.kolakakab.go.id/.well-known/sitemap.xml
+Sitemap: https://sikma-dpmptsp.kolakakab.go.id/.well-known/index.htmlsitemap.xml
